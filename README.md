@@ -20,14 +20,15 @@
 <img  align='right' size="10"  src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_discord-alt_2417764.png">
 <img  align='right' src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_gmail_1873613.png">
 <img  align='right' src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_youtube_1543314.png">
-<br>
+
+
+
+<h2 align="center">My skills 🚀 </h2>
+ 
 
 
 
 
-<br>
-
-# My skills 🚀
 
 
 
