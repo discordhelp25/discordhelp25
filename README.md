@@ -13,7 +13,7 @@
 
 ### ⚡ Fun fact: I am talkative
 
-<h1 align="center">About Me ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">About Me ✨ </h2>
 
  
 
