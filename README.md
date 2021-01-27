@@ -39,7 +39,9 @@
  <p align = "center">
 
   <img src = "https://github-readme-stats.vercel.app/api?username=Discord-Help-YouTube&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Discord-Help-YouTube&hide=css,java,html&theme=radical">
+  <p align = "center">
+ 
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Discord-Help-YouTube&hide=css,java,html&theme=radical">
 
 </p>
 
