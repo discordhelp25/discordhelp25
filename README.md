@@ -13,7 +13,9 @@
 
 ### ⚡ Fun fact: I am talkative
 
-# About Me ✨
+<h2 align="center">About Me ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+ 
 
 <img  align='right' size="10"  src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_discord-alt_2417764.png">
 <img  align='right' src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_gmail_1873613.png">
