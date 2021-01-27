@@ -26,7 +26,7 @@ Hey! I'm Max, a 16 year old software developer and QA engineer for [@Reggora](ht
 
 <br><br><br><br>
 
-<h1 align="center">My skills 🚀 </h2>
+<h1 align="center">My skills 🚀 </h1>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
