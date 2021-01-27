@@ -36,7 +36,7 @@
 
 ### My Github Status
 
- <p align = "center">
+ <p align = "left">
 
   <img src = "https://github-readme-stats.vercel.app/api?username=Discord-Help-YouTube&show_icons=true&theme=radical&line_height=27">
   <p align = "center">
@@ -45,7 +45,7 @@
 
 </p>
 
-<p align = "center">
+<p align = "left">
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Discord-Help-YouTube&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 
