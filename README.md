@@ -16,7 +16,7 @@
 
 ### ⚡ Fun fact: I am talkative
 
-<h1 align="center">About Me ✨ </h2>
+<h1 align="center">About Me ✨ </h1>
 
 <a href="https://discord.gg/X4UfMnHV
 
