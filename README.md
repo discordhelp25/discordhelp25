@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning discord.js
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with setup of my bot
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about discord server setup or bot tutorial
+- 📫 How to reach me: http://youtube.com/discordhelp
+
+- ⚡ Fun fact: I am talkative
 
 ## My skills 🚀
 
