@@ -13,8 +13,13 @@
 
 ### ⚡ Fun fact: I am talkative
 
- 
-## My skills 🚀
+# About Me ✨
+
+<img  align='right' src="">
+<img  align='right' src="">
+<img  align='right' src="">
+
+# My skills 🚀
 
 
 
@@ -37,7 +42,7 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
-### My Github Status
+# My Github Status
 
  <p align = "left">
 
