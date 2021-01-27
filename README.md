@@ -4,14 +4,14 @@
 
 
 
-- 🔭 I’m currently working on discord.js basic for my YouTube channel
-- 🌱 I’m currently learning discord.js
-- 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with setup of my bot
-- 💬 Ask me about discord server setup or bot tutorial
-- 📫 How to reach me: discordcommunityhelpc897@gmail.com
+### 🔭 I’m currently working on discord.js basic for my YouTube channel
+### 🌱 I’m currently learning discord.js
+### 👯 I’m looking to collaborate on GitHub
+### 🤔 I’m looking for help with setup of my bot
+### 💬 Ask me about discord server setup or bot tutorial
+### 📫 How to reach me: discordcommunityhelpc897@gmail.com
 
-- ⚡ Fun fact: I am talkative
+### ⚡ Fun fact: I am talkative
 
 ## My skills 🚀
 
