@@ -19,7 +19,7 @@
 
 <a href="
 https://discord.gg/X4UfMnHV
-" target="_blank"><img src="https:https://gihttps://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_discord-alt_2417764.png" height="120px" width="120px" alt="Discord" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+" target="_blank"><img src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_discord-alt_2417764.png" height="120px" width="120px" alt="Discord" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 Hey! I'm Max, a 16 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
