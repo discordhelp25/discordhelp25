@@ -1,4 +1,4 @@
-<img align="center" src="" />
+<img align="center" src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/1611730304667.png" />
 ### Hi there 👋
 
 <!--
