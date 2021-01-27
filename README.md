@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with setup of my bot
 - 💬 Ask me about discord server setup or bot tutorial
 - 📫 How to reach me: discordcommunityhelpc897@gmail.com
--
+
 - ⚡ Fun fact: I am talkative
 
 ## My skills 🚀
