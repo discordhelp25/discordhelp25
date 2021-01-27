@@ -39,7 +39,7 @@
  <p align = "left">
 
   <img src = "https://github-readme-stats.vercel.app/api?username=Discord-Help-YouTube&show_icons=true&theme=radical&line_height=27">
-  <p align = "center">
+  <p align = "left">
  
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Discord-Help-YouTube&hide=css,java,html&theme=radical">
 
