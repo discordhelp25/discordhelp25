@@ -25,7 +25,7 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 
 
 
-
+<br><br><br><br>
 <h1 align="center">My skills 🚀 </h2>
  
 
