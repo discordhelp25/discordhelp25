@@ -1,6 +1,6 @@
 <img  align="center" src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/IMG_20210127_123609.png" />
 
-### Hi there 👋
+### Hey there, I am lanaــﮩ.ﮩ٨ــshinovic 👋
 
 
 
