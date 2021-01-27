@@ -23,7 +23,7 @@
 
 
 
-<h2 align="center">My skills 🚀 </h2>
+<h1 align="center">My skills 🚀 </h2>
  
 
 
