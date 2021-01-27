@@ -36,3 +36,13 @@
 
 ### My Github Status
 ![](https://github-readme-stats.vercel.app/api?username=Discord-Help-YouTube&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Discord-Help-YouTube&hide=css,java,html&theme=radical">
+
+</p>
+
+<p align = "center">
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Discord-Help-YouTube&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+
+</p> 
+
