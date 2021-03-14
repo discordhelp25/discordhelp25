@@ -32,7 +32,7 @@
 
 <a href="https://discord.gg/X4UfMnHV" target="_blank"><img src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_discord-alt_2417764.png" height="120px" width="120px" alt="Discord" align="right"></a><a href="mailto:discordcommunityhelpc897@gmail.com"><img src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_gmail_1873613.png" height="120px" width="120px" alt="Gmail" align="right"></a><a href="https://youtube.com/channel/UCKW0IAEQBhyFQHixopT2teQ" target="_blank"><img src="https://github.com/Discord-Help-YouTube/Discord-Help-YouTube/blob/main/iconfinder_social-media_youtube_1543314.png" height="120px" width="120px" alt="YouTube" align="right"></a>
 
-Hey! I'm Max, a 16 year old software developer and QA engineer for [@lanaــﮩ.ﮩ٨ــshinovic#4724](https://github.com/Discord-Help-YouTube) working out of Mumbai. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+Hey! I'm Max, a 16 year old software developer and QA engineer for [Discord Help](https://github.com/discordhelp25) working out of Mumbai. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 <br><br><br><br>
 
 <h1 align="center">My skills 🚀 </h1>
