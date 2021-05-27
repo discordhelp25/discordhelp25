@@ -70,7 +70,7 @@ Hey! I'm Max, a 16 year old software developer and QA engineer for [Discord Help
 
 <p align = "left">
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Discord-Help-YouTube&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=discordhelp25&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 
 </p> 
 
